@@ -9,6 +9,6 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: "devopsjourney1/mywebapp:latest"
+        image: "kustom-nginx:1"
         ports:
         - containerPort: 80
