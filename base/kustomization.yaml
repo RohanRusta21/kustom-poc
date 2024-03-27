@@ -4,3 +4,9 @@ resources:
 
 commonLabels:
   app: mywebapp
+
+namePrefix:
+  Rohan-
+
+  nameSuffix:
+    -v1
