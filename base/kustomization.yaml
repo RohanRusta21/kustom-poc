@@ -1,1 +1,6 @@
+resources:
+- deploy.yaml
+- svc.yaml
 
+commonLabels:
+  app: mywebapp
