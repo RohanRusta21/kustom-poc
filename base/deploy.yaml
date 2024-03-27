@@ -9,6 +9,6 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: "kustom-nginx:1"
+        image: "wededo4644/save2drive:4"
         ports:
-        - containerPort: 80
+        - containerPort: 3000
