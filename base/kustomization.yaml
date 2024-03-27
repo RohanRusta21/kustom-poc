@@ -6,7 +6,7 @@ commonLabels:
   app: mywebapp
 
 namePrefix:
-  Rohan-
+  rohan-
 
 nameSuffix:
     -v1
